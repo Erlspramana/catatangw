@@ -11,7 +11,19 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  scroll-behavior: smooth;
+  animation: home 1s;
+} 
+
+@keyframes home {
+    from {
+        filter: blur(1.2px);
+    }
+    to {
+        filter: blur(0);
+    }
 }
+
 html{
   font-family: Poppins, 'Segoe UI', sans-serif;
   color: var(--text-color);
