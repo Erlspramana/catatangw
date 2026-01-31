@@ -16,7 +16,7 @@
     font-weight: 550;
     display: inline-block;
     position: relative;
-    top: clamp(16px, 1em, 18px);
+    top: clamp(16px, 1em, 20px);
     left: 2%;
     border-right: 5px solid;
     /* typing animation bla bla */
