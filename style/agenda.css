@@ -75,7 +75,7 @@ a {
 }
 
 .nineb-button {
-    top: clamp(1px, 2.3vw, 20px);
+    top: clamp(1px, 2.5vw, 20px);
     font-size: clamp(1px, 2.3vw, 20px);
     border: 0px solid;
     border-radius: 8px;
@@ -83,7 +83,7 @@ a {
 }
 
 .nined-button {
-    top: clamp(1px, 2.3vw, 20px);
+    top: clamp(1px, 2.5vw, 20px);
     font-size: clamp(1px, 2.3vw, 20px);
     border: 0px solid;
     border-radius: 8px;
